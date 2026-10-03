@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "366967473613",
+    "firebase_url": "https://farmer-f27a0-default-rtdb.firebaseio.com",
+    "project_id": "farmer-f27a0",
+    "storage_bucket": "farmer-f27a0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366967473613:android:a074f2a5c8f151946c7084",
+        "android_client_info": {
+          "package_name": "com.kissanrahbar.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRl20iMvFW80v-b05ThR4iK3uMbiWSdOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
