@@ -54,7 +54,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyCRl20iMvFW80v-b05ThR4iK3uMbiWSdOQ',
-    appId: '1:366967473613:android:a074f2a5c8f151946c7084',
+    appId: '',
     messagingSenderId: '366967473613',
     projectId: 'farmer-f27a0',
     databaseURL: 'https://farmer-f27a0-default-rtdb.firebaseio.com',
